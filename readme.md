@@ -45,7 +45,8 @@ Il suffit de cloner le dépôt ou de télécharger le zip de ce dernier. Il est 
     <link rel="stylesheet" type="text/css" href="./assets/css/style.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700%7CMontserrat:400,800">
+    <link rel="stylesheet" href="./assets/css/googlefont.min.css">
+    <link rel="shortcut icon" href="./assets/img/TimBernersLee.ico" type="image/x-icon">
     <title>Tim Berners-Lee</title>
 </head>
 
@@ -61,7 +62,7 @@ Il suffit de cloner le dépôt ou de télécharger le zip de ce dernier. Il est 
         <a href="https://fr.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank" rel="noopener noreferrer"
             class="seeforyourself">See for yourself</a>
     </header>
-    <!-- Header - Fin -->
+    <!-- Header-Fin -->
 ```
 ## Deuxième partie
 ```
